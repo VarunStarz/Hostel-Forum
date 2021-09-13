@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848988705418",
+    "project_id": "hostel-forum",
+    "storage_bucket": "hostel-forum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848988705418:android:34dd2a8344fb6b466bd373",
+        "android_client_info": {
+          "package_name": "com.example.hostel_forum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848988705418-95qa75nu9k94hf8a1higpk548v5imb5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQMsx7xAJR_OIWSTBcXQaPJON_3gIgbJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848988705418-95qa75nu9k94hf8a1higpk548v5imb5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
